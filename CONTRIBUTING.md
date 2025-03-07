@@ -1,1 +1,1 @@
-https://github.com/monica419/LICENSE/blob/main/README.md
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
